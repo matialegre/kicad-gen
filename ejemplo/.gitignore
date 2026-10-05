@@ -1,0 +1,7 @@
+# artefactos de verificar.py (regenerables); queda el .kicad_sch y salida/p1.png como evidencia
+*.pdf
+*.net
+*_bom.csv
+erc.txt
+*.kicad_prl
+*.kicad_pro

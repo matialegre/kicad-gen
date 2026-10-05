@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+# KiCad backups / local state
+*-backups/
+*.kicad_prl
+fp-info-cache
